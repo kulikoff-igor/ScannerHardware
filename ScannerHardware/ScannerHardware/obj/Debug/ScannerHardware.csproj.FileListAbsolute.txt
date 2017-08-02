@@ -1,0 +1,10 @@
+E:\Практика\ScannerHardware\ScannerHardware\bin\Debug\ScannerHardware.exe.config
+E:\Практика\ScannerHardware\ScannerHardware\bin\Debug\ScannerHardware.exe
+E:\Практика\ScannerHardware\ScannerHardware\bin\Debug\ScannerHardware.pdb
+E:\Практика\ScannerHardware\ScannerHardware\obj\Debug\ScannerHardware.csprojResolveAssemblyReference.cache
+E:\Практика\ScannerHardware\ScannerHardware\obj\Debug\ScannerHardware.Properties.Resources.resources
+E:\Практика\ScannerHardware\ScannerHardware\obj\Debug\ScannerHardware.csproj.GenerateResource.Cache
+E:\Практика\ScannerHardware\ScannerHardware\obj\Debug\ScannerHardware.exe
+E:\Практика\ScannerHardware\ScannerHardware\obj\Debug\ScannerHardware.pdb
+E:\Практика\ScannerHardware\ScannerHardware\obj\Debug\ScannerHardware.ScannerHardware.resources
+E:\Практика\ScannerHardware\ScannerHardware\obj\Debug\ScannerHardware.FormConfigDB.resources

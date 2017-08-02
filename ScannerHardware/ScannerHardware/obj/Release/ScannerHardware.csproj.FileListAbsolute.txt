@@ -1,0 +1,33 @@
+E:\Практика\ScannerHardware\ScannerHardware\bin\Release\ScannerHardware.exe.config
+E:\Практика\ScannerHardware\ScannerHardware\bin\Release\ScannerHardware.exe
+E:\Практика\ScannerHardware\ScannerHardware\bin\Release\ScannerHardware.pdb
+E:\Практика\ScannerHardware\ScannerHardware\obj\Release\ScannerHardware.csprojResolveAssemblyReference.cache
+E:\Практика\ScannerHardware\ScannerHardware\obj\Release\ScannerHardware.FormConfigDB.resources
+E:\Практика\ScannerHardware\ScannerHardware\obj\Release\ScannerHardware.ScannerHardware.resources
+E:\Практика\ScannerHardware\ScannerHardware\obj\Release\ScannerHardware.Properties.Resources.resources
+E:\Практика\ScannerHardware\ScannerHardware\obj\Release\ScannerHardware.csproj.GenerateResource.Cache
+E:\Практика\ScannerHardware\ScannerHardware\obj\Release\ScannerHardware.exe
+E:\Практика\ScannerHardware\ScannerHardware\obj\Release\ScannerHardware.pdb
+D:\курач\ScannerHardwareClient\ScannerHardware\ScannerHardware\bin\Release\ScannerHardware.exe.config
+D:\курач\ScannerHardwareClient\ScannerHardware\ScannerHardware\obj\Release\ScannerHardware.exe
+D:\курач\ScannerHardwareClient\ScannerHardware\ScannerHardware\obj\Release\ScannerHardware.pdb
+D:\курач\ScannerHardwareClient\ScannerHardware\ScannerHardware\bin\Release\ScannerHardware.exe
+D:\курач\ScannerHardwareClient\ScannerHardware\ScannerHardware\bin\Release\ScannerHardware.pdb
+D:\курач\ScannerHardwareClient\ScannerHardware\ScannerHardware\obj\Release\ScannerHardware.csprojResolveAssemblyReference.cache
+D:\курач\ScannerHardwareClient\ScannerHardware\ScannerHardware\obj\Release\ScannerHardware.FormConfigDB.resources
+D:\курач\ScannerHardwareClient\ScannerHardware\ScannerHardware\obj\Release\ScannerHardware.ScannerHardware.resources
+D:\курач\ScannerHardwareClient\ScannerHardware\ScannerHardware\obj\Release\ScannerHardware.Properties.Resources.resources
+D:\курач\ScannerHardwareClient\ScannerHardware\ScannerHardware\obj\Release\ScannerHardware.csproj.GenerateResource.Cache
+d:\IgorEducation\Diplom\GoogleDrive\Диплом\Дипломный проект\ScannerHardwareClient\ScannerHardware\ScannerHardware\bin\Release\ScannerHardware.exe.config
+d:\IgorEducation\Diplom\GoogleDrive\Диплом\Дипломный проект\ScannerHardwareClient\ScannerHardware\ScannerHardware\obj\Release\ScannerHardware.exe
+d:\IgorEducation\Diplom\GoogleDrive\Диплом\Дипломный проект\ScannerHardwareClient\ScannerHardware\ScannerHardware\obj\Release\ScannerHardware.pdb
+d:\IgorEducation\Diplom\GoogleDrive\Диплом\Дипломный проект\ScannerHardwareClient\ScannerHardware\ScannerHardware\bin\Release\ScannerHardware.exe
+d:\IgorEducation\Diplom\GoogleDrive\Диплом\Дипломный проект\ScannerHardwareClient\ScannerHardware\ScannerHardware\bin\Release\ScannerHardware.pdb
+d:\IgorEducation\Diplom\GoogleDrive\Диплом\Дипломный проект\ScannerHardwareClient\ScannerHardware\ScannerHardware\obj\Release\ScannerHardware.csprojResolveAssemblyReference.cache
+d:\IgorEducation\Diplom\GoogleDrive\Диплом\Дипломный проект\ScannerHardwareClient\ScannerHardware\ScannerHardware\obj\Release\ScannerHardware.FormConfigDB.resources
+d:\IgorEducation\Diplom\GoogleDrive\Диплом\Дипломный проект\ScannerHardwareClient\ScannerHardware\ScannerHardware\obj\Release\ScannerHardware.ScannerHardware.resources
+d:\IgorEducation\Diplom\GoogleDrive\Диплом\Дипломный проект\ScannerHardwareClient\ScannerHardware\ScannerHardware\obj\Release\ScannerHardware.Properties.Resources.resources
+d:\IgorEducation\Diplom\GoogleDrive\Диплом\Дипломный проект\ScannerHardwareClient\ScannerHardware\ScannerHardware\obj\Release\ScannerHardware.csproj.GenerateResource.Cache
+C:\Users\ASUS\Google Диск\Диплом\Дипломный проект\ScannerHardwareClient\ScannerHardware\ScannerHardware\bin\Release\ScannerHardware.exe.config
+C:\Users\ASUS\Google Диск\Диплом\Дипломный проект\ScannerHardwareClient\ScannerHardware\ScannerHardware\obj\Release\ScannerHardware.exe
+C:\Users\ASUS\Google Диск\Диплом\Дипломный проект\ScannerHardwareClient\ScannerHardware\ScannerHardware\obj\Release\ScannerHardware.pdb
